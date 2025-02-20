@@ -1,5 +1,4 @@
 # Overview
-Marketing Mix Modeling (MMM)
 
 Marketing Mix Modeling (MMM) is a statistical analysis technique used to measure the impact of various marketing activities on business outcomes such as sales, conversions, and customer acquisition. This repository provides an end-to-end implementation of MMM, including data preprocessing, model building, and optimization.
 
